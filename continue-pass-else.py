@@ -1,3 +1,8 @@
+######################
+#Learn Python in 2019
+#By Germán Vargas
+#######################
+
 nombre="Pildoras informáticas"
 
 contador=0
